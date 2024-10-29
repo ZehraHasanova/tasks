@@ -1,0 +1,29 @@
+.common-box{
+    border: 2px solid red;
+}
+.box{
+    border: 2px solid red;
+    padding: 10px;
+    margin: 10px;
+}
+.main box{
+font-size: 25px;
+font-weight: bold;
+}
+.paragraph{
+    padding: 0;
+}
+.list box{
+    border: 2px solid red;
+    padding: 5px;
+    margin-top: 2px;
+    margin-right: 5px;
+    margin-bottom: 2px;
+    margin-left: 0;
+}
+.button, .link{
+    border: 2px solid red;
+    padding: 5px 10px;
+    margin: 0 5px;
+
+}
